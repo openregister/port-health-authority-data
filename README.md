@@ -2,7 +2,7 @@
 
 Data for a register of Port Health Authorities
 
-The draft data has been taken from [legislation](http://www.legislation.gov.uk/all?title=port%20health%20authority).
+The draft data has been taken from [legislation](http://www.legislation.gov.uk/all?title=port%20health%20authority) and the [directory](http://www.porthealthassociation.co.uk/port-directory) of the [Association of Port Health Authorities](http://www.porthealthassociation.co.uk/port-directory/).
 
 See also a history of port health authorities and linked legislation on
 [FOIWiki](https://foiwiki.com/foiwiki/index.php/Port_health_authority).

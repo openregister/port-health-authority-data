@@ -1,0 +1,123 @@
+port-health-authority	name	legislation	local-authority	start-date	end-date
+1	Aberdeen City	NA	NA	NA	NA
+2	Isle of Anglesey County Council	NA	NA	NA	NA
+3	Angus Council	NA	NA	NA	NA
+4	North Ayrshire Council	NA	NA	NA	NA
+5	Shepway District Council	NA	NA	NA	NA
+6	Bristol PHA	NA	NA	NA	NA
+7	South Ayrshire Council	NA	NA	NA	NA
+8	Barrow PHA	NA	NA	NA	NA
+9	Vale of Glamorgan Council	NA	NA	NA	NA
+10	Belfast City Council	NA	NA	NA	NA
+11	Antrim & Newtownabbey Borough Council	NA	NA	NA	NA
+12	Comhairle nan Eilean Siar	NA	NA	NA	NA
+13	Northumberland County Council	NA	NA	NA	NA
+14	Torridge District Council	NA	NA	NA	NA
+15	London Borough of Bromley	NA	NA	NA	NA
+16	Mersey PHA	NA	NA	NA	NA
+17	Solihull Metropolitan Borough Council	NA	NA	NA	NA
+18	Hart District Council	NA	NA	NA	NA
+19	Fylde Borough Council	NA	NA	NA	NA
+20	Boston Borough Council	NA	NA	NA	NA
+21	Christchurch Borough Council	NA	NA	NA	NA
+22	Fife Council	NA	NA	NA	NA
+23	Sedgemoor District Council	NA	NA	NA	NA
+24	Colchester PHA	NA	NA	NA	NA
+25	North Somerset Council	NA	NA	NA	NA
+26	Moray Council	NA	NA	NA	NA
+27	Orkney Islands Council	NA	NA	NA	NA
+28	South Cambridgeshire District Council	NA	NA	NA	NA
+29	Derry City and Strabane District Council	NA	NA	NA	NA
+30	Causeway Coast and Glens Borough Council	NA	NA	NA	NA
+31	Warwick District Council	NA	NA	NA	NA
+32	Isle of White Council	NA	NA	NA	NA
+33	Highland Council	NA	NA	NA	NA
+34	North Norfolk District Council	NA	NA	NA	NA
+35	Plymouth PHA	NA	NA	NA	NA
+36	North West Leicestershire District Council	NA	NA	NA	NA
+37	City Of Edinburgh Council	NA	NA	NA	NA
+38	Manchester PHA	NA	NA	NA	NA
+39	Exeter City Council	NA	NA	NA	NA
+40	East Devon District Council	NA	NA	NA	NA
+41	Cornwall PHA	NA	NA	NA	NA
+42	Suffolk Coastal PHA	NA	NA	NA	NA
+43	Milford Haven PHA	NA	NA	NA	NA
+44	Shared Regulatory Services	NA	NA	NA	NA
+45	Cardiff PHA	NA	NA	NA	NA
+46	Dover PHA	NA	NA	NA	NA
+47	Medway PHA	NA	NA	NA	NA
+48	Royal Navy	NA	NA	NA	NA
+49	Doncaster Council	NA	NA	NA	NA
+50	Isle of Man	NA	NA	NA	NA
+51	HSE Ireland	NA	NA	NA	NA
+52	Dundee City Council	NA	NA	NA	NA
+53	Darlington Borough Council	NA	NA	NA	NA
+54	Fleetwood PHA	NA	NA	NA	NA
+55	Hull & Goole PHA	NA	NA	NA	NA
+56	Aberdeenshire Council	NA	NA	NA	NA
+57	Crawley Borough Council	NA	NA	NA	NA
+58	City of Edinburgh Council	NA	NA	NA	NA
+59	Mid & East Antrim Borough Council	NA	NA	NA	NA
+60	Leeds City Council	NA	NA	NA	NA
+61	Glasgow City Council	NA	NA	NA	NA
+62	Renfrewshire Council	NA	NA	NA	NA
+63	Heysham PHA	NA	NA	NA	NA
+64	Tewkesbury Borough Council	NA	NA	NA	NA
+65	Falkirk Council	NA	NA	NA	NA
+66	Hartlepool PHA	NA	NA	NA	NA
+67	Tendring PHA	NA	NA	NA	NA
+68	Spelthorne Borough Council	NA	NA	NA	NA
+69	Slough Borough Council	NA	NA	NA	NA
+70	London Borough of Hillingdon	NA	NA	NA	NA
+71	London Borough of Hounslow	NA	NA	NA	NA
+72	Grimsby & Immingham PHA	NA	NA	NA	NA
+73	Ipswich PHA	NA	NA	NA	NA
+74	States of Jersey	NA	NA	NA	NA
+75	King’s Lynn PHA	NA	NA	NA	NA
+76	Great Yarmouth Port Health Authority	NA	NA	NA	NA
+77	Inverclyde Council	NA	NA	NA	NA
+78	Grimsby & Immingham PHA (NE Lincolnshire BC)	NA	NA	NA	NA
+79	States of Guernsey	NA	NA	NA	NA
+80	North Lincolnshire Council	NA	NA	NA	NA
+81	London PHA	NA	NA	NA	NA
+82	Luton Borough Council	NA	NA	NA	NA
+83	Rochford District Council	NA	NA	NA	NA
+84	Flintshire County Council	NA	NA	NA	NA
+85	Swansea Bay PHA	NA	NA	NA	NA
+86	Newcastle Upon Tyne City Council	NA	NA	NA	NA
+87	Shetland Islands Council	NA	NA	NA	NA
+88	Littlehampton PHA	NA	NA	NA	NA
+89	Lowestoft PHA (Waveney District Council)	NA	NA	NA	NA
+90	Forest of Dean District Council	NA	NA	NA	NA
+91	Manchester City Council	NA	NA	NA	NA
+92	Trafford Metropolitan Borough Council	NA	NA	NA	NA
+93	Lewes District Council	NA	NA	NA	NA
+94	Newport County Council	NA	NA	NA	NA
+95	Wakefield Metropolitan District Council	NA	NA	NA	NA
+96	Norwich City Council	NA	NA	NA	NA
+97	Cherwell District Council	NA	NA	NA	NA
+98	Weymouth PHA	NA	NA	NA	NA
+99	Sunderland City Council	NA	NA	NA	NA
+100	Perth & Kinross Council	NA	NA	NA	NA
+101	Poole PHA	NA	NA	NA	NA
+102	Scarborough Borough Council	NA	NA	NA	NA
+103	Workington PHA	NA	NA	NA	NA
+104	Southampton PHA	NA	NA	NA	NA
+105	Uttlesford District Council	NA	NA	NA	NA
+106	Portsmouth PHA	NA	NA	NA	NA
+107	Thanet District Council	NA	NA	NA	NA
+108	Durham County Council	NA	NA	NA	NA
+109	Stroud PHA	NA	NA	NA	NA
+110	Adur District Council	NA	NA	NA	NA
+111	Brighton & Hove City Council	NA	NA	NA	NA
+112	Wisbech PHA / Fenland District Council	NA	NA	NA	NA
+113	Teignmouth PHA	NA	NA	NA	NA
+114	Tyne PHA	NA	NA	NA	NA
+115	Newry Mourne and Down District Council	NA	NA	NA	NA
+116	South Staffordshire Council	NA	NA	NA	NA
+117	West Dunbartonshire Council	NA	NA	NA	NA
+118	City and County of Swansea	NA	NA	NA	NA
+119	River Tees PHA	NA	NA	NA	NA
+120	Colchester Borough Council	NA	NA	NA	NA
+121	Copeland Borough Council	NA	NA	NA	NA
+122	Canterbury City Council	NA	NA	NA	NA
